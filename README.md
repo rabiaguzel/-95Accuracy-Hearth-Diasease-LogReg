@@ -17,7 +17,7 @@ The dataset used for this classification task is the **Heart Disease dataset** f
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
 
 ## Results:
-The model achieves a high accuracy score and performs well on various metrics, including precision, recall, and F1-score. A confusion matrix and ROC curve are also provided for further analysis.
+The model achieves a high accuracy score and performs well on various metrics, including precision, recall, and F1-score. A confusion matrix is also provided for further analysis.
 
 ---
 
@@ -40,5 +40,5 @@ Bu sınıflandırma görevi için kullanılan veri kümesi **Kalp Hastalığı v
 - Kütüphaneler: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
 
 ## Sonuçlar:
-Model yüksek doğruluk oranına ulaşmakta ve precision, recall, F1-score gibi çeşitli metriklerde iyi performans sergilemektedir. Ayrıca, modelin başarısını analiz etmek için Confusion Matrix ve ROC eğrisine de yer verilmiştir.
+Model yüksek doğruluk oranına ulaşmakta ve precision, recall, F1-score gibi çeşitli metriklerde iyi performans sergilemektedir. Ayrıca, modelin başarısını analiz etmek için Confusion Matrix'e de yer verilmiştir.
 
